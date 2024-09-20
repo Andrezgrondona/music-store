@@ -29,5 +29,5 @@ Este es un proyecto de una plataforma de comercio electrónico para instrumentos
  
 
 ## Deploy - Vercel
-https://music-store-1xna6u9sv-andrezgrondonas-projects.vercel.app/
+https://music-store-taupe.vercel.app/
    
