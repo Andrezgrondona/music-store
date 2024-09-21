@@ -4,9 +4,9 @@ Este es un proyecto de una plataforma de comercio electrónico para instrumentos
 
 ## Características
 
-- **Registro e inicio de sesión**: Los usuarios pueden registrarse e iniciar sesión utilizando su correo electrónico y contraseña o mediante Google.
-- **Carga de fotos**: Los usuarios pueden subir fotos a la galería.
-- **Galería de fotos**: Visualiza todas las fotos subidas en una interfaz atractiva y responsiva.
+
+- **Carga de productos**
+- **Galería de productos**: Visualiza todas las productos subidos
 
 ## Tecnologías Utilizadas
 
